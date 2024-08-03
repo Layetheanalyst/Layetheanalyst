@@ -11,11 +11,7 @@ Detail-oriented and highly motivated individual with a strong foundation in data
 ### 🎓 Education
 - Bachelor's Degree in International Relations (2015-2019)
 - WAEC (2008-2014)
-
-### 💼 Work Experience
-- **Bus Cleaner** at ISS cleaning services (2024-present)
-  - Worked as a team to clean various buses
-  - Demonstrated precision cleaning while meeting strict time limits
+### Work Experience
 - **Computer Science Teacher** at Ebirari International secondary school (2020-2023)
   - Improved student performance by 15% through data-driven teaching techniques
   - Analyzed student class performance to identify areas for improvement
@@ -30,12 +26,11 @@ Detail-oriented and highly motivated individual with a strong foundation in data
 - Internet & Computing Core Certificate (New Horizon, 2018)
 
 ### 🚀 Projects
-Check out my [Data Science Portfolio](https://www.datascienceportfol.io/Oyinlayefakomboye)
+Check out my [Data Analyst Portfolio](https://www.datascienceportfol.io/Oyinlayefakomboye)
 
 ### 📫 How to reach me
 - Email: Komboyesamuel@gmail.com
 - Phone: 07721808403
-- Location: 81 Edward Burdis street, Sunderland
 
 ---
 
